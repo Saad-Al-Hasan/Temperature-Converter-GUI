@@ -1,0 +1,1868 @@
+# depslib dependency file v1.0
+1746906295 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+
+1746906274 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_current_time.h
+
+1746906581 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_masked_input.c
+	"get_masked_input.h"
+	<conio.h>
+	<stdio.h>
+
+1746908058 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_masked_input.h
+	<stddef.h>
+
+1746906200 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_user_type.c
+	"get_user_type.h"
+	<string.h>
+
+1746906173 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\get_user_type.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\user_type.h
+
+1746906381 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\has_pending_entry.c
+	"has_pending_entry.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906360 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\has_pending_entry.h
+	"user_type.h"
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1746906252 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\is_valid_id.c
+	"is_valid_id.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906232 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\is_valid_id.h
+	"user_type.h"
+
+1746906601 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"get_user_type.h"
+	"is_valid_id.h"
+	"record_attendance.h"
+	"get_masked_input.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\trim_newline.h
+
+1746906517 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\record_attendance.h
+	"user_type.h"
+
+1746906540 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\record_attendance.c
+	"record_attendance.h"
+	"get_current_time.h"
+	"has_pending_entry.h"
+	"update_user_file.h"
+	"update_log_file.h"
+	<stdio.h>
+
+1746906440 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_user_file.h
+	"user_type.h"
+
+1746906479 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_log_file.h
+	"user_type.h"
+
+1746906342 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\today_section_exists.c
+	"today_section_exists.h"
+	<string.h>
+
+1746906318 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\today_section_exists.h
+	<stdio.h>
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906499 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_log_file.c
+	"update_log_file.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906418 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_status_line.c
+	"update_status_line.h"
+	<stdio.h>
+
+1746906400 d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_status_line.h
+
+1746906460 source:d:\university\east_west\ewu\4th semester (spring 2025)\attendancesystem\update_user_file.c
+	"update_user_file.h"
+	"utils.h"
+	"today_section_exists.h"
+	<stdio.h>
+
+1746906295 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+
+1746906274 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_current_time.h
+
+1746906581 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_masked_input.c
+	"get_masked_input.h"
+	<conio.h>
+	<stdio.h>
+
+1746908058 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_masked_input.h
+	<stddef.h>
+
+1746906200 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_user_type.c
+	"get_user_type.h"
+	<string.h>
+
+1746906173 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\get_user_type.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\user_type.h
+
+1746906381 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\has_pending_entry.c
+	"has_pending_entry.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906360 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\has_pending_entry.h
+	"user_type.h"
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1746906252 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\is_valid_id.c
+	"is_valid_id.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906232 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\is_valid_id.h
+	"user_type.h"
+
+1746906601 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"get_user_type.h"
+	"is_valid_id.h"
+	"record_attendance.h"
+	"get_masked_input.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\trim_newline.h
+
+1746906517 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\record_attendance.h
+	"user_type.h"
+
+1746906540 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\record_attendance.c
+	"record_attendance.h"
+	"get_current_time.h"
+	"has_pending_entry.h"
+	"update_user_file.h"
+	"update_log_file.h"
+	<stdio.h>
+
+1746906440 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_user_file.h
+	"user_type.h"
+
+1746906479 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_log_file.h
+	"user_type.h"
+
+1746906342 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\today_section_exists.c
+	"today_section_exists.h"
+	<string.h>
+
+1746906318 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\today_section_exists.h
+	<stdio.h>
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906499 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_log_file.c
+	"update_log_file.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906418 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_status_line.c
+	"update_status_line.h"
+	<stdio.h>
+
+1746906400 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_status_line.h
+
+1746906460 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem\update_user_file.c
+	"update_user_file.h"
+	"utils.h"
+	"today_section_exists.h"
+	<stdio.h>
+
+1746906295 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+
+1746906274 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_current_time.h
+
+1746906581 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_masked_input.c
+	"get_masked_input.h"
+	<conio.h>
+	<stdio.h>
+
+1746908058 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_masked_input.h
+	<stddef.h>
+
+1746906200 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_user_type.c
+	"get_user_type.h"
+	<string.h>
+
+1746906173 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\get_user_type.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\user_type.h
+
+1746906381 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\has_pending_entry.c
+	"has_pending_entry.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906360 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\has_pending_entry.h
+	"user_type.h"
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1746906252 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\is_valid_id.c
+	"is_valid_id.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906232 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\is_valid_id.h
+	"user_type.h"
+
+1746906540 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\record_attendance.c
+	"record_attendance.h"
+	"get_current_time.h"
+	"has_pending_entry.h"
+	"update_user_file.h"
+	"update_log_file.h"
+	<stdio.h>
+
+1746906517 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\record_attendance.h
+	"user_type.h"
+
+1746906440 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_user_file.h
+	"user_type.h"
+
+1746906479 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_log_file.h
+	"user_type.h"
+
+1746906342 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\today_section_exists.c
+	"today_section_exists.h"
+	<string.h>
+
+1746906318 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\today_section_exists.h
+	<stdio.h>
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\trim_newline.h
+
+1746906499 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_log_file.c
+	"update_log_file.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906418 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_status_line.c
+	"update_status_line.h"
+	<stdio.h>
+
+1746906400 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_status_line.h
+
+1746906460 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\update_user_file.c
+	"update_user_file.h"
+	"utils.h"
+	"today_section_exists.h"
+	<stdio.h>
+
+1747516598 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"get_user_type.h"
+	"is_valid_id.h"
+	"record_attendance.h"
+	"get_masked_input.h"
+	"attendance_system.h"
+	<stdio.h>
+	<string.h>
+
+1747516863 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 3\attendance_system.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1746906581 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_masked_input.c
+	"get_masked_input.h"
+	<conio.h>
+	<stdio.h>
+
+1746908058 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_masked_input.h
+	<stddef.h>
+
+1746906200 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_user_type.c
+	"get_user_type.h"
+	<string.h>
+
+1746906173 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_user_type.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\user_type.h
+
+1746906381 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\has_pending_entry.c
+	"has_pending_entry.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906360 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\has_pending_entry.h
+	"user_type.h"
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1746906252 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\is_valid_id.c
+	"is_valid_id.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906232 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\is_valid_id.h
+	"user_type.h"
+
+1747516598 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"get_user_type.h"
+	"is_valid_id.h"
+	"record_attendance.h"
+	"get_masked_input.h"
+	"attendance_system.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\trim_newline.h
+
+1746906517 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\record_attendance.h
+	"user_type.h"
+
+1747516863 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\attendance_system.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1746906540 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\record_attendance.c
+	"record_attendance.h"
+	"get_current_time.h"
+	"has_pending_entry.h"
+	"update_user_file.h"
+	"update_log_file.h"
+	<stdio.h>
+
+1747517945 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_current_time.h
+
+1746906440 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_user_file.h
+	"user_type.h"
+
+1746906479 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_log_file.h
+	"user_type.h"
+
+1746906342 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\today_section_exists.c
+	"today_section_exists.h"
+	<string.h>
+
+1746906318 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\today_section_exists.h
+	<stdio.h>
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906499 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_log_file.c
+	"update_log_file.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746906418 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_status_line.c
+	"update_status_line.h"
+	<stdio.h>
+
+1746906400 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_status_line.h
+
+1746906460 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\update_user_file.c
+	"update_user_file.h"
+	"utils.h"
+	"today_section_exists.h"
+	<stdio.h>
+
+1747516533 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\attendance_system.c
+	"attendance_system.h"
+	"utils.h"
+
+1747517968 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 4\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747451733 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\attendance_system.c
+	"attendance_system.h"
+	"utils.h"
+
+1747452063 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\attendance_system.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1746841294 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\user_type.h
+
+1746841214 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747453168 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747453145 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_current_time.h
+
+1746841781 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_masked_input.c
+	"get_masked_input.h"
+	<conio.h>
+	<stdio.h>
+
+1746843258 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_masked_input.h
+	<stddef.h>
+
+1746841400 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_user_type.c
+	"get_user_type.h"
+	<string.h>
+
+1746841373 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\get_user_type.h
+	"user_type.h"
+
+1746841581 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\has_pending_entry.c
+	"has_pending_entry.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746841560 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\has_pending_entry.h
+	"user_type.h"
+
+1746841452 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\is_valid_id.c
+	"is_valid_id.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1746841432 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\is_valid_id.h
+	"user_type.h"
+
+1747451798 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"get_user_type.h"
+	"is_valid_id.h"
+	"record_attendance.h"
+	"get_masked_input.h"
+	"attendance_system.h"
+	<stdio.h>
+	<string.h>
+
+1746841322 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\trim_newline.h
+
+1746841717 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\record_attendance.h
+	"user_type.h"
+
+1746841740 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\record_attendance.c
+	"record_attendance.h"
+	"get_current_time.h"
+	"has_pending_entry.h"
+	"update_user_file.h"
+	"update_log_file.h"
+	<stdio.h>
+
+1746841640 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_user_file.h
+	"user_type.h"
+
+1746841679 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_log_file.h
+	"user_type.h"
+
+1746841542 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\today_section_exists.c
+	"today_section_exists.h"
+	<string.h>
+
+1746841518 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\today_section_exists.h
+	<stdio.h>
+
+1746841352 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746841618 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_status_line.c
+	"update_status_line.h"
+	<stdio.h>
+
+1746841600 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_status_line.h
+
+1746841660 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_user_file.c
+	"update_user_file.h"
+	"utils.h"
+	"today_section_exists.h"
+	<stdio.h>
+
+1747455525 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\demo\attendancesystem 5\update_log_file.c
+	"update_log_file.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747670585 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\attendance_system.c
+	"attendance_system.h"
+	"utils.h"
+
+1747516862 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\attendance_system.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\user_type.h
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747517968 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747517944 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\get_current_time.h
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\trim_newline.h
+
+1747669378 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1747669713 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\date_recheck.h
+	<stdio.h>
+
+1747669170 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1747670343 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\encapsulation_process.h
+	<stddef.h>
+
+1747669242 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669640 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\entry_exit.h
+	"user_type.h"
+
+1747669222 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1747669614 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\id_pattern.h
+	"user_type.h"
+
+1747669261 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669667 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\id_validation.h
+	"user_type.h"
+
+1747669441 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747669743 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\log_update.h
+	"user_type.h"
+
+1747669891 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"attendance_system.h"
+	<stdio.h>
+	<string.h>
+
+1747669689 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\output_window.h
+	"user_type.h"
+
+1747670253 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	<stdio.h>
+
+1747669802 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\personal_log.h
+	"user_type.h"
+
+1747669529 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	<stdio.h>
+
+1747669455 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\status_update.c
+	"status_update.h"
+	<stdio.h>
+
+1747669779 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 5\attendancesystem 5\status_update.h
+
+1747669378 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1747669713 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\date_recheck.h
+	<stdio.h>
+
+1747669170 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1747670343 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\encapsulation_process.h
+	<stddef.h>
+
+1747669242 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669640 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\entry_exit.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\user_type.h
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747517968 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747517944 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\get_current_time.h
+
+1747669222 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1747669614 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\id_pattern.h
+	"user_type.h"
+
+1747669261 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669667 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\id_validation.h
+	"user_type.h"
+
+1747669441 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747669743 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\log_update.h
+	"user_type.h"
+
+1747670253 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	<stdio.h>
+
+1747669689 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\output_window.h
+	"user_type.h"
+
+1747669802 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\personal_log.h
+	"user_type.h"
+
+1747669529 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	<stdio.h>
+
+1747669455 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\status_update.c
+	"status_update.h"
+	<stdio.h>
+
+1747669779 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\status_update.h
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\trim_newline.h
+
+1747671046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1747671022 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\project\attendancesystem 6\attendancesystem 6\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1747669378 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1747669713 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\date_recheck.h
+	<stdio.h>
+
+1747669170 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1747670343 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\encapsulation_process.h
+	<stddef.h>
+
+1747669242 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669640 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\entry_exit.h
+	"user_type.h"
+
+1746906094 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\user_type.h
+
+1746906014 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747517968 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747517944 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\get_current_time.h
+
+1747744161 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1747669614 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\id_pattern.h
+	"user_type.h"
+
+1747743225 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669667 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\id_validation.h
+	"user_type.h"
+
+1747744536 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\log_update.c
+	"log_update.h"
+	"utils.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747669743 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\log_update.h
+	"user_type.h"
+
+1747671046 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\trim_newline.h
+
+1747669689 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\output_window.h
+	"user_type.h"
+
+1747671022 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1747743870 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1747669802 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\personal_log.h
+	"user_type.h"
+
+1747744813 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"user_type.h"
+
+1747669455 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\status_update.c
+	"status_update.h"
+	<stdio.h>
+
+1747669779 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\status_update.h
+
+1746906152 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1747742809 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+
+1747742618 source:c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\add_user.c
+	"add_user.h"
+	<string.h>
+	"utils.h"
+
+1747741551 c:\users\babu\desktop\attendancesystem 7\attendancesystem 7\attendancesystem 7\add_user.h
+	"user_type.h"
+
+1747669378 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1747669713 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\date_recheck.h
+	<stdio.h>
+
+1747669170 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1747670343 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\encapsulation_process.h
+	<stddef.h>
+
+1747669242 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669640 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\entry_exit.h
+	"user_type.h"
+
+1746906094 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\user_type.h
+
+1746906014 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747517968 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747517944 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\get_current_time.h
+
+1747744161 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1747669614 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\id_pattern.h
+	"user_type.h"
+
+1747743225 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669667 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\id_validation.h
+	"user_type.h"
+
+1747744536 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\log_update.c
+	"log_update.h"
+	"utils.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747669743 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\log_update.h
+	"user_type.h"
+
+1747671046 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\trim_newline.h
+
+1747669689 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\output_window.h
+	"user_type.h"
+
+1747671022 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1747743870 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1747669802 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\personal_log.h
+	"user_type.h"
+
+1747744813 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"user_type.h"
+
+1747669455 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\status_update.c
+	"status_update.h"
+	<stdio.h>
+
+1747669779 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\status_update.h
+
+1747742809 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+
+1746906152 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1747766684 source:c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\add_user.c
+	"add_user.h"
+	"utils.h"
+	"id_pattern.h"
+	"encapsulation_process.h"
+	<stdio.h>
+	<string.h>
+
+1747765849 c:\users\babu\desktop\attendancesystem 9\attendancesystem 9\attendancesystem 9\add_user.h
+	"user_type.h"
+
+1747767214 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\add_user.c
+	"add_user.h"
+	"utils.h"
+	"id_pattern.h"
+	"encapsulation_process.h"
+	<stdio.h>
+	<string.h>
+
+1747765849 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\add_user.h
+	"user_type.h"
+
+1746906094 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\user_type.h
+
+1746906014 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1747669614 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\id_pattern.h
+	"user_type.h"
+
+1747670343 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\encapsulation_process.h
+	<stddef.h>
+
+1747669378 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1747669713 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\date_recheck.h
+	<stdio.h>
+
+1747767522 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\delete_user.c
+	"delete_user.h"
+	"utils.h"
+	"id_pattern.h"
+	"encapsulation_process.h"
+	<stdio.h>
+	<string.h>
+
+1747767502 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\delete_user.h
+	"user_type.h"
+
+1747669170 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1747669242 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669640 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\entry_exit.h
+	"user_type.h"
+
+1747517968 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+	<stdint.h>
+
+1747517944 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\get_current_time.h
+
+1747744161 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1747743225 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1747669667 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\id_validation.h
+	"user_type.h"
+
+1747744536 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\log_update.c
+	"log_update.h"
+	"utils.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1747669743 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\log_update.h
+	"user_type.h"
+
+1747671046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1746906122 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\trim_newline.h
+
+1747669689 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\output_window.h
+	"user_type.h"
+
+1747671022 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1747743870 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1747669802 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\personal_log.h
+	"user_type.h"
+
+1747744813 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"user_type.h"
+
+1747669455 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\status_update.c
+	"status_update.h"
+	<stdio.h>
+
+1747669779 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\status_update.h
+
+1747767604 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+
+1746906152 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project\surveillance_tracking engine\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1748447897 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\add_user.c
+	"add_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748447665 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\add_user.h
+	"user_type.h"
+	"utils.h"
+
+1748447604 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\user_type.h
+
+1748447634 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"user_type.h"
+
+1748447716 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\encapsulation_process.h
+	<stddef.h>
+
+1748447773 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\id_pattern.h
+	"user_type.h"
+
+1748447860 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\trim_newline.h
+
+1748447933 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1748447687 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\date_recheck.h
+	<stdio.h>
+
+1748447979 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\delete_user.c
+	"delete_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748447704 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\delete_user.h
+	"user_type.h"
+	"utils.h"
+
+1748448026 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1748448046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1748447730 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\entry_exit.h
+	"user_type.h"
+
+1748448065 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+
+1748447761 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\get_current_time.h
+	<stdint.h>
+
+1748448079 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1748448102 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748447785 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\id_validation.h
+	"user_type.h"
+
+1748448140 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748447798 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\log_update.h
+	"user_type.h"
+
+1748449489 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1748447811 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\output_window.h
+	"user_type.h"
+
+1748447847 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1748449421 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1748447821 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\personal_log.h
+	"user_type.h"
+
+1748449439 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"status_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+
+1748447833 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\status_update.h
+
+1748449453 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\status_update.c
+	"status_update.h"
+	<stdio.h>
+	<string.h>
+
+1748449468 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+	"encapsulation_process.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"add_user.h"
+	"delete_user.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748449478 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project 3\surveillance_tracking engine\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1748447897 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\add_user.c
+	"add_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748452011 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\add_user.h
+	"user_type.h"
+	"utils.h"
+
+1748452301 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\user_type.h
+
+1748452315 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"user_type.h"
+
+1748452068 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\encapsulation_process.h
+	<stddef.h>
+
+1748452150 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\id_pattern.h
+	"user_type.h"
+
+1748452283 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\trim_newline.h
+
+1748447933 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1748452033 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\date_recheck.h
+	<stdio.h>
+
+1748447979 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\delete_user.c
+	"delete_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748452049 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\delete_user.h
+	"user_type.h"
+	"utils.h"
+
+1748448026 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1748448046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1748452111 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\entry_exit.h
+	"user_type.h"
+
+1748448065 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+
+1748452131 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\get_current_time.h
+	<stdint.h>
+
+1748448079 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1748448102 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1748452169 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\id_validation.h
+	"user_type.h"
+
+1748448140 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748452190 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\log_update.h
+	"user_type.h"
+
+1748449489 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1748452205 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\output_window.h
+	"user_type.h"
+
+1748452264 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1748449421 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1748452222 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\personal_log.h
+	"user_type.h"
+
+1748449439 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"status_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+
+1748452241 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\status_update.h
+
+1748449453 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\status_update.c
+	"status_update.h"
+	<stdio.h>
+	<string.h>
+
+1748449468 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+	"encapsulation_process.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"add_user.h"
+	"delete_user.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748449478 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\surveillance_tracking engine\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1748447897 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\add_user.c
+	"add_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749706444 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\add_user.h
+	"user_type.h"
+	"utils.h"
+
+1749708781 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\user_type.h
+
+1749708132 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"user_type.h"
+
+1749707405 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\encapsulation_process.h
+	<stddef.h>
+
+1749707683 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\id_pattern.h
+	"user_type.h"
+
+1749708006 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\trim_newline.h
+
+1748447933 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1749707539 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\date_recheck.h
+	<stdio.h>
+
+1748447979 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\delete_user.c
+	"delete_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749708224 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\delete_user.h
+	"user_type.h"
+	"utils.h"
+
+1748448026 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1748448046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1749708368 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\entry_exit.h
+	"user_type.h"
+
+1748448065 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+
+1749708445 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\get_current_time.h
+	<stdint.h>
+
+1748448079 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1748448102 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749707732 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\id_validation.h
+	"user_type.h"
+
+1748448140 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1749707777 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\log_update.h
+	"user_type.h"
+
+1748449489 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1749707822 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\output_window.h
+	"user_type.h"
+
+1749707964 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1748449421 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1749707870 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\personal_log.h
+	"user_type.h"
+
+1748449439 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"status_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+
+1749707911 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\status_update.h
+
+1748449453 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\status_update.c
+	"status_update.h"
+	<stdio.h>
+	<string.h>
+
+1748449468 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+	"encapsulation_process.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"add_user.h"
+	"delete_user.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748449478 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures\new folder\surveillance_tracking engine\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
+1748447897 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\add_user.c
+	"add_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749706444 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\add_user.h
+	"user_type.h"
+	"utils.h"
+
+1749708781 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\user_type.h
+
+1749708132 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"user_type.h"
+
+1749707405 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\encapsulation_process.h
+	<stddef.h>
+
+1749707683 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\id_pattern.h
+	"user_type.h"
+
+1749708006 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\trim_newline.h
+
+1748447933 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\date_recheck.c
+	"date_recheck.h"
+	<string.h>
+
+1749707539 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\date_recheck.h
+	<stdio.h>
+
+1748447979 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\delete_user.c
+	"delete_user.h"
+	"encapsulation_process.h"
+	"id_pattern.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749708224 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\delete_user.h
+	"user_type.h"
+	"utils.h"
+
+1748448026 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\encapsulation_process.c
+	"encapsulation_process.h"
+	<conio.h>
+	<stdio.h>
+
+1748448046 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\entry_exit.c
+	"entry_exit.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1749708368 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\entry_exit.h
+	"user_type.h"
+
+1748448065 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\get_current_time.c
+	"get_current_time.h"
+	<time.h>
+	<string.h>
+
+1749708445 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\get_current_time.h
+	<stdint.h>
+
+1748448079 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\id_pattern.c
+	"id_pattern.h"
+	<string.h>
+
+1748448102 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\id_validation.c
+	"id_validation.h"
+	"utils.h"
+	"trim_newline.h"
+	<stdio.h>
+	<string.h>
+
+1749707732 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\id_validation.h
+	"user_type.h"
+
+1748448140 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\log_update.c
+	"log_update.h"
+	"utils.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1749707777 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\log_update.h
+	"user_type.h"
+
+1748449489 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\main.c
+	"utils.h"
+	"user_type.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"encapsulation_process.h"
+	"surveillance_tracking_engine.h"
+	<stdio.h>
+	<string.h>
+
+1749707822 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\output_window.h
+	"user_type.h"
+
+1749707964 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\surveillance_tracking_engine.h
+	<stdio.h>
+	<string.h>
+	"user_type.h"
+
+1748449421 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\output_window.c
+	"output_window.h"
+	"get_current_time.h"
+	"entry_exit.h"
+	"personal_log.h"
+	"log_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+	"utils.h"
+
+1749707870 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\personal_log.h
+	"user_type.h"
+
+1748449439 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\personal_log.c
+	"personal_log.h"
+	"utils.h"
+	"date_recheck.h"
+	"status_update.h"
+	"user_type.h"
+	<stdio.h>
+	<string.h>
+
+1749707911 d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\status_update.h
+
+1748449453 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\status_update.c
+	"status_update.h"
+	<stdio.h>
+	<string.h>
+
+1748449468 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\surveillance_tracking_engine.c
+	"surveillance_tracking_engine.h"
+	"utils.h"
+	"encapsulation_process.h"
+	"trim_newline.h"
+	"id_pattern.h"
+	"id_validation.h"
+	"output_window.h"
+	"add_user.h"
+	"delete_user.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1748449478 source:d:\university\east_west\ewu\4th semester (spring 2025)\cse 207\final_project_with structures 2\surveillance_tracking engine\trim_newline.c
+	"trim_newline.h"
+	<string.h>
+
